@@ -1,4 +1,5 @@
 # Qiniu-JavaScript-SDK
+# 2018/9/8 测试修改
 
 基于七牛 API 开发的前端 JavaScript SDK
 
